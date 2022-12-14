@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tAFjstZP6tD0invaIoA5FdPNM5muWgqynsraAwfLEQXTZSZm7ytWtMZMmOqusRQ9VAkAV8a1+8UExlLh2dfIOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sethl\\Documents\\Cowboy_shootout\\Cowboy_shootout.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sethl\\.nuget\\packages\\raylib-cs\\4.2.0.1\\raylib-cs.4.2.0.1.nupkg.sha512",
+    "C:\\Users\\sethl\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
